@@ -1,0 +1,6 @@
+<meta property="og:title" content="Short & Long Term stay in Oranjestad, Aruba">
+<meta property="og:site_name" content="Hotel California Aruba">
+<meta property="og:url" content="https://hotelcaliforniaaruba.com/">
+<meta property="og:description" content="Hotel California Aruba 3-star ??? Bed & Breakfast located in the main street, downtown Oranjestad the capital of Aruba. We offer comfortable and convenient stay options for all budgets.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://images.app.goo.gl/8mHUUFvnuBVewMpt5">

@@ -1,0 +1,45 @@
+    <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+    {
+      "vars" : {
+        "gtag_id": "UA-98262419-1",
+        "config" : {
+          "UA-98262419-1": {
+            "groups": "default"
+          }
+        }
+      }
+    }
+    </script>
+    </amp-analytics>
+
+<link rel="alternate" href="https://hotelcaliforniaaruba.com/" hreflang="en-aw" />
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel",
+  "name" : "Hotel California Aruba",
+  "description" : "Enjoy our hospitality at Hotel California Aruba Bed & Breakfast.
+Our combination of affordable rooms, amenities are the ideal blend of comfort and affordability.",
+  "address" : { "@type" : "PostalAddress",
+               "addressCountry" : "Aruba",
+               "addressLocality" : "Oranjestad",
+               "addressRegion" : "Main street",
+               "postalCode" : "12345",
+               "streetAddress" : "Caya G. F. Betico Croes 152"
+               },
+  "telephone" :  "+297 7471972",
+  "photo" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/a3/ff/1a/hotel-california-aruba.jpghttp://www.acme-innsbruck.at//media/hotel_front.png",
+  "starRating" : { "@type" : "Rating",
+                   "ratingValue" : "4"},
+  "priceRange" : "$65 - $85"
+}
+</script>
+
+<meta property="og:title" content="Short & Long Term stay in Oranjestad, Aruba">
+<meta property="og:site_name" content="Hotel California Aruba">
+<meta property="og:url" content="https://hotelcaliforniaaruba.com/">
+<meta property="og:description" content="Hotel California Aruba 3-star ??? Bed & Breakfast located in the main street, downtown Oranjestad the capital of Aruba. We offer comfortable and convenient stay options for all budgets.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://images.app.goo.gl/8mHUUFvnuBVewMpt5">

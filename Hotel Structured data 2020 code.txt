@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel",
+  "name" : "Hotel California Aruba",
+  "description" : "Enjoy our hospitality at Hotel California Aruba Bed & Breakfast.
+Our combination of affordable rooms, amenities are the ideal blend of comfort and affordability.",
+  "address" : { "@type" : "PostalAddress",
+               "addressCountry" : "Aruba",
+               "addressLocality" : "Oranjestad",
+               "addressRegion" : "Main street",
+               "postalCode" : "12345",
+               "streetAddress" : "Caya G. F. Betico Croes 152"
+               },
+  "telephone" :  "+297 7471972",
+  "photo" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/a3/ff/1a/hotel-california-aruba.jpghttp://www.acme-innsbruck.at//media/hotel_front.png",
+  "starRating" : { "@type" : "Rating",
+                   "ratingValue" : "4"},
+  "priceRange" : "$65 - $85"
+}
+</script>

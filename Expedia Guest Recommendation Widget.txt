@@ -1,0 +1,2 @@
+<div id='widgetContainerBox' data-isaddnofollow='false'></div>
+<script src='https://apps.expediapartnercentral.com/lodging/content/award/static/js/recommendation/11349784/Expedia-Dark-Landscape-en_US.js?widgetName=Guest Recommendation Widget&hotelName=Hotel California Aruba&noFollow=false'></script>
